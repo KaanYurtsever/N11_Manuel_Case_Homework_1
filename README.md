@@ -16,7 +16,7 @@ Cucumber, selenium and junit4 have been used. This project is created by using P
 - Write to terminal 'allure serve' to see the report.
 - Note: If you use windows, you should download allure from there 'https://docs.qameta.io/allure/', and go to environment variables then add to path.
 
-- Download the latest version as zip archive from Maven Central.
+Download the latest version as zip archive from Maven Central.
 
 Unpack the archive to allure-commandline directory.
 
